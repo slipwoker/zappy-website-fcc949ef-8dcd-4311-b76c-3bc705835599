@@ -1,0 +1,60 @@
+# Headers configuration for Render static hosting
+# Ensures correct MIME types for all file types
+
+/*-og.jpg
+  Content-Type: image/jpeg
+  Cache-Control: public, max-age=31536000, no-transform
+
+/*.css
+  Content-Type: text/css; charset=utf-8
+
+/*.js
+  Content-Type: application/javascript; charset=utf-8
+
+/*.json
+  Content-Type: application/json; charset=utf-8
+
+/*.xml
+  Content-Type: application/xml; charset=utf-8
+
+/*.svg
+  Content-Type: image/svg+xml
+
+/*.woff
+  Content-Type: font/woff
+
+/*.woff2
+  Content-Type: font/woff2
+
+/*.ttf
+  Content-Type: font/ttf
+
+/*.eot
+  Content-Type: application/vnd.ms-fontobject
+
+/*.ico
+  Content-Type: image/x-icon
+
+/*.png
+  Content-Type: image/png
+
+/*.jpg
+  Content-Type: image/jpeg
+
+/*.jpeg
+  Content-Type: image/jpeg
+
+/*.gif
+  Content-Type: image/gif
+
+/*.webp
+  Content-Type: image/webp
+
+/*.html
+  Content-Type: text/html; charset=utf-8
+
+# Security headers
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block

@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Cortisol Wear drops bold streetwear built for the hustle generation. Shop men&#39;s clothing stores online and score the best black friday clothing deals before they sell out.
+
+### Services
+https://example.com/services
+Services | Cortisol Wear. tommy hilfiger clothing
+
+### About
+https://example.com/about
+Cortisol Wear was born from the chaos of modern life. Discover the story behind the brand redefining men&#39;s clothing stores with raw emotion, street culture, and unapologetic style.
+
+### Contact
+https://example.com/contact
+Got questions, collab ideas, or just want to connect? Reach out to Cortisol Wear today and tap into a fashion community built around hustle, black friday clothing deals, and bold expression.
+
+### Products
+https://example.com/products
+Our Products - Cortisol Wear
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Cortisol Wear
+
+### Category
+https://example.com/category/:slug
+Products - Cortisol Wear
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
